@@ -4,7 +4,7 @@ const Perfil = () => {
     }
 
     return (
-        <div>
+        <div className="calcPerfil">
             <h3>{caculadora.nome}</h3>
         </div>
     )
